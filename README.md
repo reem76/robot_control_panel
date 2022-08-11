@@ -10,8 +10,9 @@
 
 ## Screenshot:
 - Robot movement control panel
-![]()
+![](/screenshot/Ssn1.png)
 - Display selected movement
+![](/screenshot/Screenshot2.png)
 
 ### References:
 - https://www.apachefriends.org/download.html
